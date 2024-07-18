@@ -2,3 +2,4 @@ opencv-python-headless
 streamlit
 streamlit-webrtc
 mediapipe
+numpy==1.19.5
