@@ -6,6 +6,7 @@ import numpy as np
 import mediapipe as mp
 import cv2
 
+
 st.title("プリクラアプリ")
 st.write("2024海城祭")
 
