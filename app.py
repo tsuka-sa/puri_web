@@ -1,10 +1,7 @@
 import streamlit as st
 from streamlit_webrtc import webrtc_streamer
 import av
-try:
-    import cv2
-except:
-    continue
+#import cv2
 import numpy as np
 import mediapipe as mp
 from PIL import Image, ImageEnhance, ImageFilter
